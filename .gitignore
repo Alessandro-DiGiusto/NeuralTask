@@ -1,0 +1,4 @@
+.DS_Store
+*.psd
+*.zip
+node_modules/
